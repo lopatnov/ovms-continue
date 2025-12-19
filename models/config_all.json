@@ -1,0 +1,10 @@
+{
+    "model_config_list": [
+        {
+            "config": {
+                "name": "Qwen2.5-Coder-3B-Instruct-int4-ov",
+                "base_path": "Qwen2.5-Coder-3B-Instruct-int4-ov"
+            }
+        }
+    ]
+}
