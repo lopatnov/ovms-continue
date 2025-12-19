@@ -84,9 +84,9 @@ Edit configuration file `C:\Users\<Username>\.continue\config.yaml` like so:
 
 ```yaml
 models:
-  - name: Qwen2.5-Coder-7B (GPU)
+  - name: Qwen2.5-Coder-3B (GPU)
     provider: openai
-    model: Qwen2.5-Coder-7B-Instruct-int4-ov
+    model: Qwen2.5-Coder-3B-Instruct-int4-ov
     apiKey: unused
     apiBase: http://localhost:8000/v3
     roles:
