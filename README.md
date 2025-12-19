@@ -10,13 +10,13 @@ Local AI models for code completion and chat in VS Code via [Continue Extension]
 
 ## Current models
 
-| Model  | Size   | Speed    | Goal       |
-|--------|--------|----------|------------|
-| Qwen2.5-Coder-14B | ~8GB | ⚡ | Best quality |
-| Qwen2.5-Coder-7B | ~4GB | ⚡⚡ | Balance |
-| Qwen2.5-Coder-3B | ~2GB | ⚡⚡⚡ | Quick |
-| Qwen2.5-Coder-1.5B | ~1GB | ⚡⚡⚡⚡ | Autocomplete |
-| Qwen2.5-Coder-0.5B | ~300MB | ⚡⚡⚡⚡⚡ | Minimal resources |
+| Model  | Size   | Speed    | Goal       | Pushed to GitHub |
+|--------|--------|----------|------------|------------------|
+| Qwen2.5-Coder-14B | ~8GB | ⚡ | Best quality | No, too huge |
+| Qwen2.5-Coder-7B | ~4GB | ⚡⚡ | Balance | No, too huge |
+| Qwen2.5-Coder-3B | ~2GB | ⚡⚡⚡ | Quick | Yes |
+| Qwen2.5-Coder-1.5B | ~1GB | ⚡⚡⚡⚡ | Autocomplete | Yes |
+| Qwen2.5-Coder-0.5B | ~300MB | ⚡⚡⚡⚡⚡ | Minimal resources | Yes |
 
 ## Quick start
 
